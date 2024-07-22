@@ -12,6 +12,7 @@ scikit-learn = "*"
 scikeras = "*"
 seaborn = "*"
 gradio = "*"
+mlxtend = "*"
 
 [dev-packages]
 ipykernel = "*"
