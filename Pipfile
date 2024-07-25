@@ -13,6 +13,7 @@ scikeras = "*"
 seaborn = "*"
 gradio = "*"
 mlxtend = "*"
+scikit-image = "*"
 
 [dev-packages]
 ipykernel = "*"
